@@ -1,0 +1,1 @@
+ida_iter_40000.caffemodel filter=lfs diff=lfs merge=lfs -text
