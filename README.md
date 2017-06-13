@@ -2,7 +2,7 @@
 
 This is a project of Intelligence Data Analysis course, commits by Yu-Ting Lai
 
-## First: Single Object Pose Classification
+## Second Part: Two Object Pose Classification in A Random Stacking Scene
 
 ### Step 1: Labels creation
 
@@ -69,7 +69,11 @@ python detect.py YOUR/IMAGE/DIR
 for example
 
 ```
-python detect.py 4_0002.png
+python detect.py one_object/4_0002.png
+```
+or
+```
+python detect.py two_objects/4_0000.png
 ```
 
 
