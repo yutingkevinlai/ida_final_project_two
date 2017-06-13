@@ -16,7 +16,7 @@ sys.path.insert(0, caffe_root + 'python')
 import caffe
 
 MODEL = 'ida_deploy.prototxt'
-WEIGHTS = 'ida_iter_40000_old.caffemodel'
+WEIGHTS = 'ida_iter_40000.caffemodel'
 
 def deploy(img):
 
