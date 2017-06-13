@@ -1,6 +1,8 @@
-# ida_final_project
+# IDA Final Project Second Part
 
-This is a project of Intelligence Data Analysis course, commits by Yu-Ting Lai
+This is a project of Intelligence Data Analysis course
+
+committed by Yu-Ting Lai
 
 ## Second Part: Two Object Pose Classification in A Random Stacking Scene
 
